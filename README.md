@@ -51,6 +51,9 @@ Opening link, under text for "Week 1" should see "Getting Started section of the
 Click this read 1 then complete 3 and 4 titled "testing hardware" and "testing software" respectively 
 For "Getting Started" 2 is for work at home
 
+Summary Session:
+Managed to get task 101 "Blinky" completed, succuessfully coding the red and green lights to flash then the red in sequence
+Rest confuses me too much too attempt without audio for tutorials 
 ---
 
 
