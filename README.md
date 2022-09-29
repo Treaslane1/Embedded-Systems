@@ -19,7 +19,10 @@ This repository contains both lab materials and code examples for all the Electr
 1. [ELEC351 Advanced Embedded Programming (Level 6)](./level6/README.md)
 1. [Glossary](glossary/README.md)
 
-## Experimenting with making notes
+Experimenting with changes to file
+So far made changes by clicking on "Show in Explorer" in suggestions what to do next in changes tab
+Then selected the "Edit with Notepad++" option from right clicking README.md file
+Finally saved changes then its simply renembering to press the "Commit to master" in bottom left
 ---
 
 
