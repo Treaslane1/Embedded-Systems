@@ -23,6 +23,7 @@ Experimenting with changes to file
 So far made changes by clicking on "Show in Explorer" in suggestions what to do next in changes tab
 Then selected the "Edit with Notepad++" option from right clicking README.md file
 After saved changes then its simply renembering to press the "Commit to master" in bottom left
+Finally click the "push origin" option
 Note to self: Lecturer recommends watching tutorials on Youtube for GitHub, will need to allocate time outside of studies 
 
 Test 2: Need to figure out what to do next
