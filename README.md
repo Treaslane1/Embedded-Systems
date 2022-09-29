@@ -27,6 +27,23 @@ Finally click the "push origin" option
 Note to self: Lecturer recommends watching tutorials on Youtube for GitHub, will need to allocate time outside of studies 
 
 Test 2: Need to figure out what to do next
+
+Lecturer Says:
+"You are ELEC143
+At home go to getting started
+This goes through testing of software
+So task for next week is go through getting started and make sure that is done
+You are ELEC143 Level 4, and at bottom is introduction with link to next session for week 2
+All we're doing this week is getting started
+We will come back after lunch just to practice going through github
+So in getting started, I would say section 3 and section 4 we can do now
+By all means read 1, 2 is for home and 3 and 4 we can do today
+So lets get started on number 3 "testing hardware" and then move on to "testing software"
+Read the notes on the web then go to files and first 2 "show explorer" which shows where we put them
+Most of folders are for notes, but software is ??? (ineligible was speaking too quitely)
+Oh and attendence code I will do that now, MK IO XP"
+end transcript
+
 ---
 
 
