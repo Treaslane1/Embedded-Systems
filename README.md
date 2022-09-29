@@ -44,6 +44,13 @@ Most of folders are for notes, but software is ??? (ineligible was speaking too 
 Oh and attendence code I will do that now, MK IO XP"
 end transcript
 
+Explanation how to do "Getting Started" task for day and for next week:
+First go to "ELEC143" in "My Courses" part of DLE
+Then scroll down and expand "Core Learning Materials" and look for the "Practical Session Materials for Week 1" 
+Opening link, under text for "Week 1" should see "Getting Started section of the notes"
+Click this read 1 then complete 3 and 4 titled "testing hardware" and "testing software" respectively 
+For "Getting Started" 2 is for work at home
+
 ---
 
 
